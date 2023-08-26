@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['IQA_Main.py', 'IQA_Test.py', 'name_mos.txt', 'IQA_Dataset.py', '..\\..\\..\\..\\anaconda\\src\\envs\\tc\\lib\\site-packages\\scipy\\stats\\stats.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
