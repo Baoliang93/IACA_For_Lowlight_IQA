@@ -22,5 +22,8 @@ Code for "Gap-closing Matters: Perceptual Quality Evaluation and  Optimization o
    `python   ./codes/TMM2023-IACA-Release/Demo.py`
    
 # Details
-* Waiting
+* Apex install:
+  `git clone https://github.com/NVIDIA/apex
+  cd apex
+  python3 setup.py install`
 
