@@ -9,6 +9,7 @@ Code for "Gap-closing Matters: Perceptual Quality Evaluation and  Optimization o
 
 # Running
 * Download the SQUARE-LOL dataset from [MEGA](https://pan.baidu.com/s/1pyl5Yz4opPdoACnqSWLXsw), and put all the downloaded files in the path: "./datasets/SQUARE-LOL/".
+* Download the pre-trained models from [MEGA](https://pan.baidu.com/s/1pyl5Yz4opPdoACnqSWLXsw), and put all the downloaded files in the path: "./codes/TMM2023-IACA-Release/checkpoints/".
 
 * Train:  
   `python  ./GSTVQA/TCSVT_Release/GVQA_Release/GVQA_Cross/main.py --TrainIndex=1  
@@ -19,5 +20,5 @@ Code for "Gap-closing Matters: Perceptual Quality Evaluation and  Optimization o
   （TrainIndex=1：using the CVD2014 datase as source dataset; 2: LIVE-Qua; 3: LIVE-VQC; 4: KoNviD）`  
 
 # Details
-* Waitting
+* Waiting
 
