@@ -23,7 +23,10 @@ Code for "Gap-closing Matters: Perceptual Quality Evaluation and  Optimization o
    
 # Details
 * Apex install:
-  `git clone https://github.com/NVIDIA/apex
+```
+  git clone https://github.com/NVIDIA/apex
   cd apex
-  python3 setup.py install`
+  python3 setup.py install
+```
+* Waiting
 
