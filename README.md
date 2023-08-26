@@ -13,13 +13,13 @@ Code for "Gap-closing Matters: Perceptual Quality Evaluation and  Optimization o
 * Download the pre-trained models from [MEGA](https://pan.baidu.com/s/1pyl5Yz4opPdoACnqSWLXsw), and put all the downloaded files in the path: "./codes/TMM2023-IACA-Release/checkpoints/".
 
 * Train:  
-  `python  ./codes/TMM2023-IACA-Release/IQA_Main.py'
+  `python  ./codes/TMM2023-IACA-Release/IQA_Main.py`
 
 * Test:  
-  `python   ./codes/TMM2023-IACA-Release/IQA_Test.py'
+  `python   ./codes/TMM2023-IACA-Release/IQA_Test.py`
     
 * Demo:    
-   `python   ./codes/TMM2023-IACA-Release/Demo.py'
+   `python   ./codes/TMM2023-IACA-Release/Demo.py`
    
 # Details
 * Waiting
