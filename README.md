@@ -9,7 +9,7 @@ Code for "Gap-closing Matters: Perceptual Quality Evaluation and  Optimization o
 * Pytorch 1.6.0  Cuda V9.0.176 Cudnn 7.4.1
 
 # Running
-* Download the SQUARE-LOL dataset from [MEGA](https://pan.baidu.com/s/1pyl5Yz4opPdoACnqSWLXsw), and put all the downloaded files in the path: "./datasets/SQUARE-LOL/".
+* Download the SQUARE-LOL dataset from [MEGA](https://mega.nz/folder/zSJCETyS#tkiRycyKE9p_8IYeqY_gwA), and put all the downloaded files in the path: "./datasets/SQUARE-LOL/".
 * Download the pre-trained models from [MEGA](https://mega.nz/folder/uW4SkaDb#enjhde7PU0YHzYxn8O4ZIg), and put all the downloaded files in the path: "./codes/TMM2023-IACA-Release/checkpoints/".
 
 * Train:  
